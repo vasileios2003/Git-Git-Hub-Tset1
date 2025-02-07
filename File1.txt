@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+<body>
+    <h1>Hello, GitHub!</h1>
+    <p>This is my first project uploaded on GitHub.</p>
+    <p>It's purpose is to upload a small project on your Github through Git </p>
+</body>
+</head>
+</html>
